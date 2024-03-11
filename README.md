@@ -1,2 +1,2 @@
-# Pranav-git clone https://github.com/your-username/your-repository.git
+# Pranav-git clone https://github.com/Pranav-/your-repository.git
 
